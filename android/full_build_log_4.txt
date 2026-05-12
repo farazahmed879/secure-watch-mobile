@@ -1,0 +1,621 @@
+> Task :gradle-plugin:settings-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:shared:compileJava NO-SOURCE
+> Task :gradle-plugin:shared:processResources NO-SOURCE
+> Task :gradle-plugin:shared:classes UP-TO-DATE
+> Task :gradle-plugin:shared:jar UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:settings-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:jar UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:react-native-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:react-native-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:jar UP-TO-DATE
+
+> Configure project :react-native-reanimated
+Android gradle plugin: 8.12.0
+Gradle: 9.0.0
+
+> Task :app:generateAutolinkingNewArchitectureFiles UP-TO-DATE
+> Task :app:generateAutolinkingPackageList UP-TO-DATE
+> Task :app:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :app:generateCodegenArtifactsFromSchema SKIPPED
+> Task :app:generateReactNativeEntryPoint UP-TO-DATE
+> Task :react-native-linear-gradient:preBuild UP-TO-DATE
+> Task :react-native-reanimated:assertLatestReactNativeWithNewArchitectureTask SKIPPED
+> Task :react-native-reanimated:assertMinimalReactNativeVersionTask SKIPPED
+> Task :react-native-reanimated:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-reanimated:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-reanimated:prepareReanimatedHeadersForPrefabs UP-TO-DATE
+> Task :react-native-reanimated:prepareWorkletsHeadersForPrefabs UP-TO-DATE
+> Task :react-native-reanimated:preBuild UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :react-native-screens:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-screens:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-screens:preBuild UP-TO-DATE
+> Task :react-native-vector-icons:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-vector-icons:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-vector-icons:preBuild UP-TO-DATE
+> Task :react-native-worklets:assertMinimalReactNativeVersionTask
+> Task :react-native-worklets:assertNewArchitectureEnabledTask SKIPPED
+> Task :react-native-worklets:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-worklets:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-worklets:prepareWorkletsHeadersForPrefabs UP-TO-DATE
+> Task :react-native-worklets:preBuild
+> Task :app:preBuild
+> Task :app:preDebugBuild
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-linear-gradient:preDebugBuild UP-TO-DATE
+> Task :react-native-linear-gradient:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-reanimated:preDebugBuild UP-TO-DATE
+> Task :react-native-reanimated:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-safe-area-context:preDebugBuild UP-TO-DATE
+> Task :react-native-safe-area-context:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-screens:preDebugBuild UP-TO-DATE
+> Task :react-native-screens:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-vector-icons:preDebugBuild UP-TO-DATE
+> Task :react-native-vector-icons:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-worklets:preDebugBuild
+> Task :react-native-worklets:writeDebugAarMetadata UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :react-native-linear-gradient:generateDebugResValues UP-TO-DATE
+> Task :react-native-linear-gradient:generateDebugResources UP-TO-DATE
+> Task :react-native-linear-gradient:packageDebugResources UP-TO-DATE
+> Task :react-native-reanimated:generateDebugResValues UP-TO-DATE
+> Task :react-native-reanimated:generateDebugResources UP-TO-DATE
+> Task :react-native-reanimated:packageDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:packageDebugResources UP-TO-DATE
+> Task :react-native-screens:generateDebugResValues UP-TO-DATE
+> Task :react-native-screens:generateDebugResources UP-TO-DATE
+> Task :react-native-screens:packageDebugResources UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugResValues UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugResources UP-TO-DATE
+> Task :react-native-vector-icons:packageDebugResources UP-TO-DATE
+> Task :react-native-worklets:generateDebugResValues UP-TO-DATE
+> Task :react-native-worklets:generateDebugResources UP-TO-DATE
+> Task :react-native-worklets:packageDebugResources UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-linear-gradient:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-linear-gradient:processDebugManifest UP-TO-DATE
+> Task :react-native-reanimated:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-reanimated:processDebugManifest UP-TO-DATE
+> Task :react-native-safe-area-context:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-safe-area-context:processDebugManifest UP-TO-DATE
+> Task :react-native-screens:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-screens:processDebugManifest UP-TO-DATE
+> Task :react-native-vector-icons:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-vector-icons:processDebugManifest UP-TO-DATE
+> Task :react-native-worklets:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-worklets:processDebugManifest UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :react-native-linear-gradient:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-linear-gradient:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-linear-gradient:generateDebugRFile UP-TO-DATE
+> Task :react-native-reanimated:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-reanimated:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-reanimated:generateDebugRFile UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-safe-area-context:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugRFile UP-TO-DATE
+> Task :react-native-screens:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-screens:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-screens:generateDebugRFile UP-TO-DATE
+> Task :react-native-vector-icons:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-vector-icons:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugRFile UP-TO-DATE
+> Task :react-native-worklets:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-worklets:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-worklets:generateDebugRFile UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :react-native-linear-gradient:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-linear-gradient:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-linear-gradient:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-linear-gradient:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-reanimated:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-reanimated:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-reanimated:packageNdkLibs NO-SOURCE
+
+> Task :react-native-reanimated:compileDebugJavaWithJavac
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:13: error: package com.facebook.react.uimanager.layoutanimation does not exist
+import com.facebook.react.uimanager.layoutanimation.LayoutAnimationController;
+                                                   ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:14: error: package com.facebook.react.uimanager.layoutanimation does not exist
+import com.facebook.react.uimanager.layoutanimation.LayoutAnimationListener;
+                                                   ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:19: error: cannot find symbol
+class ReaLayoutAnimator extends LayoutAnimationController {
+                                ^
+  symbol: class LayoutAnimationController
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:120: error: cannot find symbol
+  public void deleteView(final View view, final LayoutAnimationListener listener) {
+                                                ^
+  symbol:   class LayoutAnimationListener
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:13: error: cannot find symbol
+import com.facebook.react.uimanager.UIManagerModuleListener;
+                                   ^
+  symbol:   class UIManagerModuleListener
+  location: package com.facebook.react.uimanager
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:20: error: cannot find symbol
+    implements LifecycleEventListener, UIManagerModuleListener, UIManagerListener {
+                                       ^
+  symbol: class UIManagerModuleListener
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:44: error: cannot find symbol
+      return super.shouldAnimateLayout(viewToAnimate);
+             ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:56: error: method does not override or implement a method from a supertype
+  @Override
+  ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:58: error: cannot find symbol
+    super.reset();
+    ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:85: error: cannot find symbol
+      super.applyLayoutUpdate(view, x, y, width, height);
+      ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:95: error: cannot find symbol
+        super.applyLayoutUpdate(view, x, y, width, height);
+        ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:122: error: cannot find symbol
+      super.deleteView(view, listener);
+      ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:134: error: cannot find symbol
+      super.deleteView(view, listener);
+      ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:152: error: cannot find symbol
+        super.deleteView(view, listener);
+        ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:158: error: cannot find symbol
+        super.deleteView(view, listener);
+        ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\ReanimatedPackage.java:72: error: cannot find symbol
+    Systrace.beginSection(Systrace.TRACE_TAG_REACT_JAVA_BRIDGE, "createUIManagerModule");
+                                  ^
+  symbol:   variable TRACE_TAG_REACT_JAVA_BRIDGE
+  location: class Systrace
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\ReanimatedPackage.java:80: error: cannot find symbol
+      Systrace.endSection(Systrace.TRACE_TAG_REACT_JAVA_BRIDGE);
+                                  ^
+  symbol:   variable TRACE_TAG_REACT_JAVA_BRIDGE
+  location: class Systrace
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\layoutReanimation\ReanimatedUIManager.java:25: error: cannot find symbol
+    super.onBatchComplete();
+         ^
+  symbol: method onBatchComplete()
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:83: error: cannot find symbol
+      uiManager.addUIManagerListener(this);
+               ^
+  symbol:   method addUIManagerListener(ReanimatedModule)
+  location: variable uiManager of type UIManagerModule
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:107: error: method does not override or implement a method from a supertype
+  @Override
+  ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\BorderRadiiDrawableUtils\latest\com\swmansion\reanimated\BorderRadiiDrawableUtils.java:21: error: method resolve in class LengthPercentage cannot be applied to given types;
+    return length.resolve(bounds.width(), bounds.height()).toPixelFromDIP().getHorizontal();
+                 ^
+  required: float
+  found:    int,int
+  reason: actual and formal argument lists differ in length
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+21 errors
+
+> Task :react-native-reanimated:compileDebugJavaWithJavac FAILED
+
+[Incubating] Problems report is available at: file:///D:/Watch%2024%20%20Seven/Watch24Seven/android/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':react-native-reanimated:compileDebugJavaWithJavac'.
+> Compilation failed; see the compiler output below.
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\BorderRadiiDrawableUtils\latest\com\swmansion\reanimated\BorderRadiiDrawableUtils.java:21: error: method resolve in class LengthPercentage cannot be applied to given types;
+      return length.resolve(bounds.width(), bounds.height()).toPixelFromDIP().getHorizontal();
+                   ^
+    required: float
+    found:    int,int
+    reason: actual and formal argument lists differ in length
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\layoutReanimation\ReanimatedUIManager.java:25: error: cannot find symbol
+      super.onBatchComplete();
+           ^
+    symbol: method onBatchComplete()
+  Note: Recompile with -Xlint:deprecation for details.
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:120: error: cannot find symbol
+    public void deleteView(final View view, final LayoutAnimationListener listener) {
+                                                  ^
+    symbol:   class LayoutAnimationListener
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:13: error: cannot find symbol
+  import com.facebook.react.uimanager.UIManagerModuleListener;
+                                     ^
+    symbol:   class UIManagerModuleListener
+    location: package com.facebook.react.uimanager
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:44: error: cannot find symbol
+        return super.shouldAnimateLayout(viewToAnimate);
+               ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:58: error: cannot find symbol
+      super.reset();
+      ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:85: error: cannot find symbol
+        super.applyLayoutUpdate(view, x, y, width, height);
+        ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:95: error: cannot find symbol
+          super.applyLayoutUpdate(view, x, y, width, height);
+          ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:122: error: cannot find symbol
+        super.deleteView(view, listener);
+        ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:134: error: cannot find symbol
+        super.deleteView(view, listener);
+        ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:152: error: cannot find symbol
+          super.deleteView(view, listener);
+          ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:158: error: cannot find symbol
+          super.deleteView(view, listener);
+          ^
+    symbol:   variable super
+    location: class ReaLayoutAnimator
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\ReanimatedPackage.java:72: error: cannot find symbol
+      Systrace.beginSection(Systrace.TRACE_TAG_REACT_JAVA_BRIDGE, "createUIManagerModule");
+                                    ^
+    symbol:   variable TRACE_TAG_REACT_JAVA_BRIDGE
+    location: class Systrace
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\ReanimatedPackage.java:80: error: cannot find symbol
+        Systrace.endSection(Systrace.TRACE_TAG_REACT_JAVA_BRIDGE);
+                                    ^
+    symbol:   variable TRACE_TAG_REACT_JAVA_BRIDGE
+    location: class Systrace
+  Note: Recompile with -Xlint:unchecked for details.
+  Note: Some input files use or override a deprecated API.
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:56: error: method does not override or implement a method from a supertype
+    @Override
+    ^
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:107: error: method does not override or implement a method from a supertype
+    @Override
+    ^
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:19: error: cannot find symbol
+  class ReaLayoutAnimator extends LayoutAnimationController {
+                                  ^
+    symbol: class LayoutAnimationController
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:20: error: cannot find symbol
+      implements LifecycleEventListener, UIManagerModuleListener, UIManagerListener {
+                                         ^
+    symbol: class UIManagerModuleListener
+  Note: Some input files use unchecked or unsafe operations.
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:83: error: cannot find symbol
+        uiManager.addUIManagerListener(this);
+                 ^
+    symbol:   method addUIManagerListener(ReanimatedModule)
+    location: variable uiManager of type UIManagerModule
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:13: error: package com.facebook.react.uimanager.layoutanimation does not exist
+  import com.facebook.react.uimanager.layoutanimation.LayoutAnimationController;
+                                                     ^
+  D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:14: error: package com.facebook.react.uimanager.layoutanimation does not exist
+  import com.facebook.react.uimanager.layoutanimation.LayoutAnimationListener;
+                                                     ^
+  21 errors
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)
+> Run with --scan to generate a Build Scan (Powered by Develocity).
+
+* Exception is:
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':react-native-reanimated:compileDebugJavaWithJavac'.
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:135)
+	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:288)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:133)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:121)
+	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:45)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:347)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:334)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:330)
+	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:84)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:330)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:319)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+Caused by: org.gradle.api.internal.tasks.compile.CompilationFailedException: Compilation failed; see the compiler output below.
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\BorderRadiiDrawableUtils\latest\com\swmansion\reanimated\BorderRadiiDrawableUtils.java:21: error: method resolve in class LengthPercentage cannot be applied to given types;
+    return length.resolve(bounds.width(), bounds.height()).toPixelFromDIP().getHorizontal();
+                 ^
+  required: float
+  found:    int,int
+  reason: actual and formal argument lists differ in length
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\layoutReanimation\ReanimatedUIManager.java:25: error: cannot find symbol
+    super.onBatchComplete();
+         ^
+  symbol: method onBatchComplete()
+Note: Recompile with -Xlint:deprecation for details.
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:120: error: cannot find symbol
+  public void deleteView(final View view, final LayoutAnimationListener listener) {
+                                                ^
+  symbol:   class LayoutAnimationListener
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:13: error: cannot find symbol
+import com.facebook.react.uimanager.UIManagerModuleListener;
+                                   ^
+  symbol:   class UIManagerModuleListener
+  location: package com.facebook.react.uimanager
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:44: error: cannot find symbol
+      return super.shouldAnimateLayout(viewToAnimate);
+             ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:58: error: cannot find symbol
+    super.reset();
+    ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:85: error: cannot find symbol
+      super.applyLayoutUpdate(view, x, y, width, height);
+      ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:95: error: cannot find symbol
+        super.applyLayoutUpdate(view, x, y, width, height);
+        ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:122: error: cannot find symbol
+      super.deleteView(view, listener);
+      ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:134: error: cannot find symbol
+      super.deleteView(view, listener);
+      ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:152: error: cannot find symbol
+        super.deleteView(view, listener);
+        ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:158: error: cannot find symbol
+        super.deleteView(view, listener);
+        ^
+  symbol:   variable super
+  location: class ReaLayoutAnimator
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\ReanimatedPackage.java:72: error: cannot find symbol
+    Systrace.beginSection(Systrace.TRACE_TAG_REACT_JAVA_BRIDGE, "createUIManagerModule");
+                                  ^
+  symbol:   variable TRACE_TAG_REACT_JAVA_BRIDGE
+  location: class Systrace
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\ReanimatedPackage.java:80: error: cannot find symbol
+      Systrace.endSection(Systrace.TRACE_TAG_REACT_JAVA_BRIDGE);
+                                  ^
+  symbol:   variable TRACE_TAG_REACT_JAVA_BRIDGE
+  location: class Systrace
+Note: Recompile with -Xlint:unchecked for details.
+Note: Some input files use or override a deprecated API.
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:56: error: method does not override or implement a method from a supertype
+  @Override
+  ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:107: error: method does not override or implement a method from a supertype
+  @Override
+  ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:19: error: cannot find symbol
+class ReaLayoutAnimator extends LayoutAnimationController {
+                                ^
+  symbol: class LayoutAnimationController
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:20: error: cannot find symbol
+    implements LifecycleEventListener, UIManagerModuleListener, UIManagerListener {
+                                       ^
+  symbol: class UIManagerModuleListener
+Note: Some input files use unchecked or unsafe operations.
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\reactNativeVersionPatch\ReanimatedUIManager\latest\com\swmansion\reanimated\ReanimatedModule.java:83: error: cannot find symbol
+      uiManager.addUIManagerListener(this);
+               ^
+  symbol:   method addUIManagerListener(ReanimatedModule)
+  location: variable uiManager of type UIManagerModule
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:13: error: package com.facebook.react.uimanager.layoutanimation does not exist
+import com.facebook.react.uimanager.layoutanimation.LayoutAnimationController;
+                                                   ^
+D:\Watch 24  Seven\Watch24Seven\node_modules\react-native-reanimated\android\src\main\java\com\swmansion\reanimated\layoutReanimation\ReaLayoutAnimator.java:14: error: package com.facebook.react.uimanager.layoutanimation does not exist
+import com.facebook.react.uimanager.layoutanimation.LayoutAnimationListener;
+                                                   ^
+21 errors
+	at org.gradle.api.internal.tasks.compile.JdkJavaCompiler.execute(JdkJavaCompiler.java:89)
+	at org.gradle.api.internal.tasks.compile.JdkJavaCompiler.execute(JdkJavaCompiler.java:50)
+	at org.gradle.api.internal.tasks.compile.NormalizingJavaCompiler.delegateAndHandleErrors(NormalizingJavaCompiler.java:98)
+	at org.gradle.api.internal.tasks.compile.NormalizingJavaCompiler.execute(NormalizingJavaCompiler.java:52)
+	at org.gradle.api.internal.tasks.compile.NormalizingJavaCompiler.execute(NormalizingJavaCompiler.java:38)
+	at org.gradle.api.internal.tasks.compile.AnnotationProcessorDiscoveringCompiler.execute(AnnotationProcessorDiscoveringCompiler.java:52)
+	at org.gradle.api.internal.tasks.compile.AnnotationProcessorDiscoveringCompiler.execute(AnnotationProcessorDiscoveringCompiler.java:38)
+	at org.gradle.api.internal.tasks.compile.ModuleApplicationNameWritingCompiler.execute(ModuleApplicationNameWritingCompiler.java:46)
+	at org.gradle.api.internal.tasks.compile.ModuleApplicationNameWritingCompiler.execute(ModuleApplicationNameWritingCompiler.java:36)
+	at org.gradle.jvm.toolchain.internal.DefaultToolchainJavaCompiler.execute(DefaultToolchainJavaCompiler.java:57)
+	at org.gradle.api.tasks.compile.JavaCompile.lambda$createToolchainCompiler$3(JavaCompile.java:206)
+	at org.gradle.api.internal.tasks.compile.CleaningJavaCompiler.execute(CleaningJavaCompiler.java:53)
+	at org.gradle.api.internal.tasks.compile.incremental.IncrementalCompilerFactory.lambda$createRebuildAllCompiler$0(IncrementalCompilerFactory.java:55)
+	at org.gradle.api.internal.tasks.compile.incremental.SelectiveCompiler.execute(SelectiveCompiler.java:70)
+	at org.gradle.api.internal.tasks.compile.incremental.SelectiveCompiler.execute(SelectiveCompiler.java:44)
+	at org.gradle.api.internal.tasks.compile.incremental.IncrementalResultStoringCompiler.execute(IncrementalResultStoringCompiler.java:66)
+	at org.gradle.api.internal.tasks.compile.incremental.IncrementalResultStoringCompiler.execute(IncrementalResultStoringCompiler.java:52)
+	at org.gradle.api.internal.tasks.compile.CompileJavaBuildOperationReportingCompiler$1.call(CompileJavaBuildOperationReportingCompiler.java:64)
+	at org.gradle.api.internal.tasks.compile.CompileJavaBuildOperationReportingCompiler$1.call(CompileJavaBuildOperationReportingCompiler.java:48)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+	at org.gradle.api.internal.tasks.compile.CompileJavaBuildOperationReportingCompiler.execute(CompileJavaBuildOperationReportingCompiler.java:48)
+	at org.gradle.api.tasks.compile.JavaCompile.performCompilation(JavaCompile.java:224)
+	at org.gradle.api.tasks.compile.JavaCompile.performIncrementalCompilation(JavaCompile.java:165)
+	at org.gradle.api.tasks.compile.JavaCompile.compile(JavaCompile.java:150)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
+	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.doExecute(IncrementalTaskAction.java:45)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.execute(IncrementalTaskAction.java:26)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:252)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:237)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:220)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:203)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:170)
+	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:68)
+	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:38)
+	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:39)
+	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:28)
+	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+	at org.gradle.internal.Either$Right.fold(Either.java:176)
+	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:64)
+	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:35)
+	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:62)
+	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:40)
+	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:76)
+	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:45)
+	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:136)
+	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:66)
+	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:38)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:297)
+	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:47)
+	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:34)
+	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:64)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:132)
+	... 29 more
+
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.0.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 15s
+102 actionable tasks: 2 executed, 100 up-to-date
